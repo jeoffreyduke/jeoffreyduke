@@ -12,6 +12,7 @@ I consider myself to be a creative web developer, who's been able to harness the
 *   🧠  I'm learning Svelte, Web3js, Solidity.
 *   🤝  I'm open to collaborating on any interesting projects.
 *   ⚡  Sending love and light your way; to brighten your day.
+* revolving_hearts  Follow me on github to stay tuned on my amazing projects.
 
 <h3>Skills</h3>
 <p align="left">
