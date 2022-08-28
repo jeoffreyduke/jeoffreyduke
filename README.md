@@ -1,6 +1,4 @@
-
-  <div>
-    ![Terracotta Typographic Business Marketing Twitter Header(5)](https://user-images.githubusercontent.com/85391775/187096484-c79bbdb1-c5b8-4724-8ea0-96dd9820cb85.png)
+![Terracotta Typographic Business Marketing Twitter Header(5)](https://user-images.githubusercontent.com/85391775/187096484-c79bbdb1-c5b8-4724-8ea0-96dd9820cb85.png)
 ==============================
 
 Frontend Web Developer
@@ -50,7 +48,4 @@ I consider myself to be a creative web developer, who's been able to harness the
    <h3>Social Media</h3>                
   <p align="left"> <a href="https://www.github.com/jeoffeyduke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jeoffreyduke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jeoffrey-duke-584485149/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/jeoffeyduke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dukejeoffrey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-</div>
-  <div>
     <a href="https://app.daily.dev/jeoffreyduke"><img src="https://api.daily.dev/devcards/4852eaf6ca204bbca1c9298d92e5e442.png?r=it8" width="400" alt="Jeoffrey Duke's Dev Card"/></a>
-  </div>
