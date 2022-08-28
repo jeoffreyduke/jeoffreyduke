@@ -1,4 +1,4 @@
-<div style="display:flex;">
+
   <div>
     ![Terracotta Typographic Business Marketing Twitter Header(5)](https://user-images.githubusercontent.com/85391775/187096484-c79bbdb1-c5b8-4724-8ea0-96dd9820cb85.png)
 ==============================
@@ -54,4 +54,3 @@ I consider myself to be a creative web developer, who's been able to harness the
   <div>
     <a href="https://app.daily.dev/jeoffreyduke"><img src="https://api.daily.dev/devcards/4852eaf6ca204bbca1c9298d92e5e442.png?r=it8" width="400" alt="Jeoffrey Duke's Dev Card"/></a>
   </div>
-</div>
