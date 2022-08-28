@@ -13,7 +13,10 @@ I consider myself to be a creative web developer, who's been able to harness the
 *   🤝  I'm open to collaborating on any interesting projects.
 *   ⚡  Sending love and light your way; to brighten your day.
 
-<h3>Skills</h3>
+
+
+
+<span><h3>Skills</h3>
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -47,5 +50,5 @@ I consider myself to be a creative web developer, who's been able to harness the
                     
    <h3>Social Media</h3>                
   <p align="left"> <a href="https://www.github.com/jeoffeyduke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jeoffreyduke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jeoffrey-duke-584485149/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/jeoffeyduke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dukejeoffrey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-<a href="https://app.daily.dev/jeoffreyduke"><img src="https://api.daily.dev/devcards/4852eaf6ca204bbca1c9298d92e5e442.png?r=it8" width="400" alt="Jeoffrey Duke's Dev Card"/></a>
+</span>
+<span><a href="https://app.daily.dev/jeoffreyduke"><img src="https://api.daily.dev/devcards/4852eaf6ca204bbca1c9298d92e5e442.png?r=it8" width="400" alt="Jeoffrey Duke's Dev Card"/></a></span>
