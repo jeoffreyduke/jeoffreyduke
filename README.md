@@ -1,4 +1,4 @@
-![github](https://user-images.githubusercontent.com/85391775/187096036-690b5d5d-f46f-41f8-b1f3-a6bc70b3cb6e.png)
+![github](https://user-images.githubusercontent.com/85391775/187096113-66270c93-6f99-4bc4-be4d-d81262f5dda9.png)
 ==============================
 
 Frontend Web Developer
