@@ -10,7 +10,7 @@ Frontend Web Developer
   <tr>
     <td valign="center">
       <p>
-        I consider myself to be a creative web developer, who's been able to harness the artistic side of himself, combined with a developers logic; to             build creative and functional applications. Basically; I code pretty.
+        
 
         🌍 &nbsp;I'm based in Nigeria
         <br/>
