@@ -11,23 +11,20 @@ Frontend Web Developer
     <td valign="center">
       <p>
         I consider myself to be a creative web developer, who's been able to harness the artistic side of himself, combined with a developers logic; to             build creative and functional applications. Basically; I code pretty.
-<br/>
-*  
-*   🖥️  See my portfolio at [My web portfolio](http://jeoffreyduke.web.app)
-*   ✉️  You can contact me at [jeoffreyduke@gmail.com](mailto:jeoffreyduke@gmail.com)
-*   🧠  I'm learning Svelte, Web3js, Solidity.
-*   🤝  I'm open to collaborating on any interesting projects.
-*   ⚡  Sending love and light your way; to brighten your day.
+
         🌍 &nbsp;I'm based in Nigeria
         <br/>
-        ✈️ &nbsp;Coding with MERN stack (MongoDB, Express, React, NodeJS).
+        🖥️ &nbsp;See my portfolio at [My web portfolio](http://jeoffreyduke.web.app)
         <br/>
         🚀 &nbsp;I love contributing to Opensource.
         <br/>
-        🙂 &nbsp; I'm a content creator on Instagram.
+        ✉️ &nbsp;You can contact me at [jeoffreyduke@gmail.com](mailto:jeoffreyduke@gmail.com)
+        <br/>
+        🧠 &nbsp;I'm learning Svelte, Web3js, Solidity.
         <br/>
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
+        ⚡ &nbsp;Sending love and light your way; to brighten your day.
         <br />
         <br/>
         <br />
