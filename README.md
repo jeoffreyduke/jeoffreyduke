@@ -74,7 +74,23 @@ Skills
                                 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
                                 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
                     </p>
-                    
+ 
+ 
+## My Github Stats:
+
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/Dun-sin"><img alt="Jeoffrey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jeoffreyduke&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+       <a href="http://www.github.com/jeoffreyduke"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jeoffreyduke&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/jeoffreyduke"><img alt="Jeoffrey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeoffreyduke&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+</table>
                     
                     
 Social media
