@@ -13,8 +13,6 @@ Frontend Web Developer
         <h3>Hello👋🏾</h3>
         🌍 &nbsp;I'm based in Nigeria
         <br/>
-        🖥️ &nbsp;See my portfolio at [My web portfolio](http://jeoffreyduke.web.app)
-        <br/>
         🚀 &nbsp;I love contributing to Opensource.
         <br/>
         ✉️ &nbsp;You can contact me at [jeoffreyduke@gmail.com](mailto:jeoffreyduke@gmail.com)
@@ -32,10 +30,10 @@ Frontend Web Developer
         <h3>Twitter & Discord Community</h3>
         <a href="https://discord.gg/KUWjx4fygJ"><img src="https://user-images.githubusercontent.com/78784850/183430195-ed36310d-90f6-4ccc-9a68-a1d00457d451.png" width="220" alt="Community Link"/></a>
         <br/>
-        <a href="https://twitter.com/DunsinWebDev">
-          <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
+        <a href="https://twitter.com/dukejeoffrey">
+          <img src="https://img.shields.io/twitter/follow/dukejeoffrey?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
         <br />
-        <a href="https://dunsin.vercel.app/">
+        <a href="http://jeoffreyduke.web.app">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
       </p>
     </td>
