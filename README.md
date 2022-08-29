@@ -40,46 +40,10 @@ Frontend Web Developer
       </p>
     </td>
     <td>
-      <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="center">
-      <p>
-        
-         🌍 &nbsp;I'm based in Nigeria
-        <br/>
-        🖥️ &nbsp;See my portfolio at [My web portfolio](http://jeoffreyduke.web.app)
-        <br/>
-        🚀 &nbsp;I love contributing to Opensource.
-        <br/>
-        ✉️ &nbsp;You can contact me at [jeoffreyduke@gmail.com](mailto:jeoffreyduke@gmail.com)
-        <br/>
-        🧠 &nbsp;I'm learning Svelte, Web3js, Solidity.
-        <br/>
-        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
-        <br/>
-        ⚡ &nbsp;Sending love and light your way; to brighten your day.
-        <br/>
-        <br />
-        <h3>Support Me</h3>
-        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
-        <br/>
-        <br />
-        <h3>Twitter & Discord Community</h3>
-        <a href="https://discord.gg/KUWjx4fygJ"><img src="https://user-images.githubusercontent.com/78784850/183430195-ed36310d-90f6-4ccc-9a68-a1d00457d451.png" width="220" alt="Community Link"/></a>
-        <br/>
-        <a href="https://twitter.com/DunsinWebDev">
-          <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
-        <br />
-        <a href="https://dunsin.vercel.app/">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
-      </p>
-    </td>
-    <td>
       <a href="https://app.daily.dev/jeoffreyduke"><img src="https://api.daily.dev/devcards/4852eaf6ca204bbca1c9298d92e5e442.png?r=it8" width="400" alt="Jeoffrey Duke's Dev Card"/></a>
     </td>
   </tr>
+ 
 </table>
 
 
