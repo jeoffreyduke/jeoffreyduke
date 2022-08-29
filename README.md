@@ -28,7 +28,6 @@ Frontend Web Developer
         <br/>
         <br />
         <h3>Twitter</h3>
-        <br/>
         <a href="https://twitter.com/dukejeoffrey">
           <img src="https://img.shields.io/twitter/follow/dukejeoffrey?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
         <br />
