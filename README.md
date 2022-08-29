@@ -10,7 +10,6 @@ Frontend Web Developer
   <tr>
     <td valign="center">
       <p>
-        <h3>Hello👋🏾</h3>
         🌍 &nbsp;I'm based in Nigeria
         <br/>
         🚀 &nbsp;I love contributing to Opensource.
