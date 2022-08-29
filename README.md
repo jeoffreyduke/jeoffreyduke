@@ -92,8 +92,7 @@ Skills
   </tr>
 </table>
 
-<br />
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dun-sin&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jeoffreyduke&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
                     
                     
 Social media
