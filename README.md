@@ -11,21 +11,19 @@ Frontend Web Developer
     <td valign="center">
       <p>
         
-
-        🌍 I'm based in Nigeria
+         🌍 &nbsp;I'm based in Nigeria
         <br/>
-        🖥️ See my portfolio at [My web portfolio](http://jeoffreyduke.web.app)
+        🖥️ &nbsp;See my portfolio at [My web portfolio](http://jeoffreyduke.web.app)
         <br/>
-        🚀 I love contributing to Opensource.
+        🚀 &nbsp;I love contributing to Opensource.
         <br/>
-        ✉️ You can contact me at [jeoffreyduke@gmail.com](mailto:jeoffreyduke@gmail.com)
+        ✉️ &nbsp;You can contact me at [jeoffreyduke@gmail.com](mailto:jeoffreyduke@gmail.com)
         <br/>
-        🧠 I'm learning Svelte, Web3js, Solidity.
+        🧠 &nbsp;I'm learning Svelte, Web3js, Solidity.
         <br/>
-        💞️ Follow me on github to stay tuned on my amazing projects.
+        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
-        ⚡ Sending love and light your way; to brighten your day.
-        <br />
+        ⚡ &nbsp;Sending love and light your way; to brighten your day.
         <br/>
         <br />
         <h3>Support Me</h3>
