@@ -4,22 +4,14 @@
 Frontend Web Developer
 ----------------------
 
-I consider myself to be a creative web developer, who's been able to harness the artistic side of himself, combined with a developers logic; to build creative and functional applications. Basically; I code pretty.
 
-*   🌍  I'm based in Nigeria
-*   🖥️  See my portfolio at [My web portfolio](http://jeoffreyduke.web.app)
-*   ✉️  You can contact me at [jeoffreyduke@gmail.com](mailto:jeoffreyduke@gmail.com)
-*   🧠  I'm learning Svelte, Web3js, Solidity.
-*   🤝  I'm open to collaborating on any interesting projects.
-*   ⚡  Sending love and light your way; to brighten your day.
 
 <table>
   <tr>
     <td valign="center">
       <p>
-        <h3>Hello👋🏾</h3>
-        I consider myself to be a creative web developer, who's been able to harness the artistic side of himself, combined with a developers logic; to build creative and functional applications. Basically; I code pretty.
-
+        I consider myself to be a creative web developer, who's been able to harness the artistic side of himself, combined with a developers logic; to             build creative and functional applications. Basically; I code pretty.
+<br/>
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [My web portfolio](http://jeoffreyduke.web.app)
 *   ✉️  You can contact me at [jeoffreyduke@gmail.com](mailto:jeoffreyduke@gmail.com)
@@ -43,7 +35,7 @@ I consider myself to be a creative web developer, who's been able to harness the
       </p>
     </td>
     <td>
-      <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
+      <a href="https://app.daily.dev/jeoffreyduke"><img src="https://api.daily.dev/devcards/4852eaf6ca204bbca1c9298d92e5e442.png?r=it8" width="400" alt="Jeoffrey Duke's Dev Card"/></a>
     </td>
   </tr>
 </table>
@@ -89,4 +81,4 @@ Social media
 
 Reading Stats
 ----------------------
-<a href="https://app.daily.dev/jeoffreyduke"><img src="https://api.daily.dev/devcards/4852eaf6ca204bbca1c9298d92e5e442.png?r=it8" width="400" alt="Jeoffrey Duke's Dev Card"/></a>
+
