@@ -15,7 +15,7 @@ Frontend Web Developer
         <br/>
         🚀 &nbsp;I love contributing to Opensource.
         <br/>
-        ✉️ &nbsp;You can contact me at <a href="mailto:jeoffreyduke@gmail.com?subject=Lets Work Together">my E-Mail</a>
+        ✉️ &nbsp;You can contact me at <a href="mailto:jeoffreyduke@gmail.com?subject=Lets Work Together">my Email</a>
         <br/>
         🧠 &nbsp;I'm learning Svelte, Web3js, Solidity.
         <br/>
