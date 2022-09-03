@@ -35,7 +35,7 @@ Frontend Web Developer
       </p>
     </td>
     <td>
-      <a href="https://app.daily.dev/jeoffreyduke"><img src="https://api.daily.dev/devcards/4852eaf6ca204bbca1c9298d92e5e442.png?r=sdo" width="400" alt="Jeoffrey Duke's Dev Card"/></a>
+      <a href="https://app.daily.dev/jeoffreyduke"><img src="https://api.daily.dev/devcards/4852eaf6ca204bbca1c9298d92e5e442.png?r=g6l" width="400" alt="Jeoffrey Duke's Dev Card"/></a>
     </td>
   </tr>
  
