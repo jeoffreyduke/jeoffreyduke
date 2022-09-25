@@ -18,7 +18,7 @@ Frontend Web Developer
         <br/>
         🧠 &nbsp;I'm learning Svelte, Web3js, Solidity.
         <br/>
-        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
+        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects..
         <br/>
         ⚡ &nbsp;Sending love and light your way; to brighten your day.
         <br />
