@@ -20,7 +20,7 @@ Frontend Web Developer
         <br/>
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
-        ⚡ &nbsp;Sending love and light your way; to brighten your day.
+        ⚡ &nbsp;Sending love and light your way; to brighten your day..
         <br />
         <h3>Support Me</h3>
         <a href="https://www.buymeacoffee.com/jeoffreyduke"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
