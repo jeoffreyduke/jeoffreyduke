@@ -1,7 +1,7 @@
 ![Terracotta Typographic Business Marketing Twitter Header(5)](https://user-images.githubusercontent.com/85391775/187096484-c79bbdb1-c5b8-4724-8ea0-96dd9820cb85.png)
 ==============================
 
-Frontend Web Developer.
+Frontend Web Developer
 ----------------------
 
 
